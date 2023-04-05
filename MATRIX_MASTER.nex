@@ -1,5 +1,5 @@
 #NEXUS
-[written Wed Apr 05 15:57:56 BST 2023 by Mesquite  version 3.70 (build 940) at Martins-MacBook-Pro-2021.local/127.0.0.1]
+[written Wed Apr 05 16:09:07 BST 2023 by Mesquite  version 3.70 (build 940) at Martins-MacBook-Pro-2021.local/127.0.0.1 (Martin D Brazeau)]
 
 BEGIN TAXA;
 	TITLE Taxa;
@@ -792,7 +792,7 @@ BEGIN NOTES;
 
 	TEXT   CHARACTER = 500 TEXT = 'Growing basal tissue is absent from some scales belonging to chondrichthyans. Although shown only in the cranial cap scales (Coates & Sequeira, 2001b: fig. 12E), a basal pore is seen in Akmonistion.';
 
-	AN C = 1  A = 0 DC = 2022.10.25.11.40.9 DM = 2022.10.25.11.40.43 ID = 01840eba6e498 I = _ TF = (CM ) ;
+	AN C = 1   DC = 2022.10.25.11.40.9 DM = 2023.4.5.16.8.51 ID = 01840eba6e498 I = _ TF = (CM ) TF = (R 'Maisey, JG, Denton, JSS, Burrow, C, Pradel, A. Journal of Fish Biology 15: 37-23');
 
 	AN C = 2  A = 0 DC = 2022.10.25.11.42.33 DM = 2022.10.25.11.43.16 ID = 01840ebc9e039 I = _ TF = (CM ) ;
 
@@ -861,7 +861,7 @@ Begin MESQUITE;
 		MESQUITESCRIPTVERSION 2;
 		TITLE AUTO;
 		tell ProjectCoordinator;
-		timeSaved 1680706676413;
+		timeSaved 1680707347458;
 		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
 		tell It;
 			setID 0 8464539481286941188;
@@ -891,7 +891,7 @@ Begin MESQUITE;
 			setFontIncAnnot 0;
 			setFontIncExp 0;
 			setSize 2560 1351;
-			setLocation 10 25;
+			setLocation 0 25;
 			setFont SanSerif;
 			setFontSize 10;
 			getToolPalette;
@@ -915,7 +915,7 @@ Begin MESQUITE;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
 					setSize 2460 1279;
-					setLocation 10 25;
+					setLocation 0 25;
 					setFont SanSerif;
 					setFontSize 10;
 					getToolPalette;
@@ -950,13 +950,14 @@ Begin MESQUITE;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
 					setSize 2460 1219;
-					setLocation 10 25;
+					setLocation 0 25;
 					setFont SanSerif;
 					setFontSize 12;
 					getToolPalette;
 					tell It;
 						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
 					endTell;
+					setActive;
 					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
 					colorCells  #mesquite.charMatrices.ColorCells.ColorCells;
 				tell It;
@@ -1021,7 +1022,7 @@ Begin MESQUITE;
 						setFontIncAnnot 0;
 						setFontIncExp 0;
 						setSize 2460 1279;
-						setLocation 10 25;
+						setLocation 0 25;
 						setFont SanSerif;
 						setFontSize 12;
 						getToolPalette;
@@ -1083,6 +1084,7 @@ Begin MESQUITE;
 					getTable;
 					tell It;
 						rowNamesWidth 663;
+						columnWidth 0 79;
 						columnWidth 1 204;
 						columnWidth 2 280;
 					endTell;
@@ -1091,14 +1093,13 @@ Begin MESQUITE;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
 					setSize 2460 1219;
-					setLocation 10 25;
+					setLocation 0 25;
 					setFont SanSerif;
 					setFontSize 10;
 					getToolPalette;
 					tell It;
 						setTool mesquite.lists.CharacterList.CharacterListWindow.ibeam;
 					endTell;
-					setActive;
 				endTell;
 				showWindow;
 				getEmployee #mesquite.lists.CharListAnnotPanel.CharListAnnotPanel;
