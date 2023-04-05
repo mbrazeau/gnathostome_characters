@@ -1,5 +1,5 @@
 #NEXUS
-[written Wed Apr 05 15:15:58 BST 2023 by Mesquite  version 3.70 (build 940) at Martins-MacBook-Pro-2021.local/127.0.0.1]
+[written Wed Apr 05 15:57:56 BST 2023 by Mesquite  version 3.70 (build 940) at Martins-MacBook-Pro-2021.local/127.0.0.1]
 
 BEGIN TAXA;
 	TITLE Taxa;
@@ -655,7 +655,7 @@ BEGIN NOTES;
 
 	TEXT   CHARACTER = 7 TEXT = 'Based on Giles et al. (2010) and Keating et al. (2015)';
 
-	TEXT   CHARACTER = 14 TEXT = 'Burrow & Turner (2010: character 61). Hanke & Davis (2008) express uncertainty about bone cell lacunae in the scale bases of <i>Gladiobranchus</i>. However, Newman et al. (2012), working on the basis of better preserved material of <i>Uraniacanthus</i> (to which <i>Gladiobranchus</i> is synonymous) show convincingly that these lacunae are lacking. <i>Climatius</i> is scored ''?'' in spite of &Oslashrvig''s (1967) report of acellular bases. Ørvig figured flat-based scales from the head. This character strictly concerns body scales, which may have been different. <i>Cheirolepis</i> is scored ''1'' based on Ørvig (1967). However, this is remarkably poorly documented in any accessioned specimens. Acanthodes is scored ''1'' based on Gross (1947) and Valiukevicius (1995). Dialipina is scored from Schultze (1968). Psarolepis is coded ''0'' based on Qu et al. (2013). The presence or absence of bone cells in the scale bases of Brindabellaspisis uncertain based on Burrow & Turner (1999). ';
+	TEXT   CHARACTER = 14 TEXT = 'Burrow & Turner (2010: character 61). Hanke & Davis (2008) express uncertainty about bone cell lacunae in the scale bases of <i>Gladiobranchus</i>. However, Newman et al. (2012), working on the basis of better preserved material of <i>Uraniacanthus</i> (to which <i>Gladiobranchus</i> is synonymous) show convincingly that these lacunae are lacking. <i>Climatius</i> is scored ''?'' in spite of &Oslashrvig''s (1967) report of acellular bases. &Oslashrvig figured flat-based scales from the head. This character strictly concerns body scales, which may have been different. <i>Cheirolepis</i> is scored ''1'' based on &Oslashrvig (1967). However, this is remarkably poorly documented in any accessioned specimens. Acanthodes is scored ''1'' based on Gross (1947) and Valiukevicius (1995). Dialipina is scored from Schultze (1968). Psarolepis is coded ''0'' based on Qu et al. (2013). The presence or absence of bone cells in the scale bases of Brindabellaspisis uncertain based on Burrow & Turner (1999). ';
 
 	TEXT   CHARACTER = 16 TEXT = 'Burrow & Turner (2010: character 60).';
 
@@ -861,7 +861,7 @@ Begin MESQUITE;
 		MESQUITESCRIPTVERSION 2;
 		TITLE AUTO;
 		tell ProjectCoordinator;
-		timeSaved 1680704158470;
+		timeSaved 1680706676413;
 		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
 		tell It;
 			setID 0 8464539481286941188;
@@ -891,7 +891,7 @@ Begin MESQUITE;
 			setFontIncAnnot 0;
 			setFontIncExp 0;
 			setSize 2560 1351;
-			setLocation -46 25;
+			setLocation 10 25;
 			setFont SanSerif;
 			setFontSize 10;
 			getToolPalette;
@@ -915,7 +915,7 @@ Begin MESQUITE;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
 					setSize 2460 1279;
-					setLocation -46 25;
+					setLocation 10 25;
 					setFont SanSerif;
 					setFontSize 10;
 					getToolPalette;
@@ -950,7 +950,7 @@ Begin MESQUITE;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
 					setSize 2460 1219;
-					setLocation -46 25;
+					setLocation 10 25;
 					setFont SanSerif;
 					setFontSize 12;
 					getToolPalette;
@@ -1021,7 +1021,7 @@ Begin MESQUITE;
 						setFontIncAnnot 0;
 						setFontIncExp 0;
 						setSize 2460 1279;
-						setLocation -46 25;
+						setLocation 10 25;
 						setFont SanSerif;
 						setFontSize 12;
 						getToolPalette;
@@ -1091,7 +1091,7 @@ Begin MESQUITE;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
 					setSize 2460 1219;
-					setLocation -46 25;
+					setLocation 10 25;
 					setFont SanSerif;
 					setFontSize 10;
 					getToolPalette;
