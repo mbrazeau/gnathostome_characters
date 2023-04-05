@@ -1,5 +1,5 @@
 #NEXUS
-[written Mon Oct 31 06:46:43 GMT 2022 by Mesquite  version 3.70 (build 940) at Martins-MacBook-Pro-2021.local/192.168.1.174]
+[written Wed Apr 05 11:47:09 BST 2023 by Mesquite  version 3.70 (build 940) at Martins-MacBook-Pro-2021.local/127.0.0.1]
 
 BEGIN TAXA;
 	TITLE Taxa;
@@ -649,13 +649,13 @@ BEGIN NOTES;
 
 	TEXT   CHARACTER = 2 TEXT = 'Maisey (2001: character 17), Pradel et al. (2011: character 0).';
 
-	TEXT   CHARACTER = 5 TEXT = 'See notes above for character 5.Extensive pore canal networks represent a key component of the complex tissue type known as cosmine, but networks of vascular canals that open to the surface of bones and scales by pores are widely distributed among early vertebrates. Best known in sarcopterygians, pore-canal networks are also found in a range of taxa including probable stem osteichthyans (e.g., Ligulalepis; Schultze, 1968: figs 1-4), acanthodians (e.g., Poracanthodes; Valiukevicius, 1992: figs 4, 9), and osteostracans (e.g., Tremataspis, Denison, 1947: fig. 1). Sarcopterygian pore-canal networks are distinguished from these other examples in the density of pore canals, and the flask-like shape of these structures. ';
+	TEXT   CHARACTER = 5 TEXT = 'See notes above for character 5.Extensive pore canal networks represent a key component of the complex tissue type known as cosmine, but networks of vascular canals that open to the surface of bones and scales by pores are widely distributed among early vertebrates. Best known in sarcopterygians, pore-canal networks are also found in a range of taxa including probable stem osteichthyans (e.g., <i>Ligulalepis</i>	; Schultze, 1968: figs 1-4), acanthodians (e.g., Poracanthodes; Valiukevicius, 1992: figs 4, 9), and osteostracans (e.g., Tremataspis, Denison, 1947: fig. 1). Sarcopterygian pore-canal networks are distinguished from these other examples in the density of pore canals, and the flask-like shape of these structures. ';
 
 	TEXT   CHARACTER = 6 TEXT = 'Added by King et al.^nDerived from Donoghue et al. (2000).^nThis character is problematic because the "absence" state could refer to anything from the total absence of exoskeletal ossification to the absence of any one of the three possible layers.';
 
-	TEXT   CHARACTER = 7 TEXT = 'Based on Giles et al. (2010) and Keating et al. (20';
+	TEXT   CHARACTER = 7 TEXT = 'Based on Giles et al. (2010) and Keating et al. (2015)';
 
-	TEXT   CHARACTER = 14 TEXT = 'Burrow & Turner (2010: character 61). Hanke & Davis (2008) express uncertainty about bone cell lacunae in the scale bases of Gladiobranchus. However, Newman et al. (2012), working on the basis of better preserved material of Uraniacanthus (to which Gladiobranchus is synonymous) show convincingly that these lacunae are lacking. Climatius is scored ''?'' in spite of Ørvig''s (1967) report of acellular bases. Ørvig figured flat-based scales from the head. This character strictly concerns body scales, which may have been different. Cheirolepis is scored ''1'' based on Ørvig (1967). However, this is remarkably poorly documented in any accessioned specimens. Acanthodes is scored ''1'' based on Gross (1947) and Valiukevicius (1995). Dialipina is scored from Schultze (1968). Psarolepis is coded ''0'' based on Qu et al. (2013). The presence or absence of bone cells in the scale bases of Brindabellaspisis uncertain based on Burrow & Turner (1999). ';
+	TEXT   CHARACTER = 14 TEXT = 'Burrow & Turner (2010: character 61). Hanke & Davis (2008) express uncertainty about bone cell lacunae in the scale bases of <i>Gladiobranchus</i>. However, Newman et al. (2012), working on the basis of better preserved material of <i>Uraniacanthus</i> (to which <i>Gladiobranchus</i> is synonymous) show convincingly that these lacunae are lacking. <i>Climatius</i> is scored ''?'' in spite of &Oslashrvig''s (1967) report of acellular bases. Ørvig figured flat-based scales from the head. This character strictly concerns body scales, which may have been different. <i>Cheirolepis</i> is scored ''1'' based on Ørvig (1967). However, this is remarkably poorly documented in any accessioned specimens. Acanthodes is scored ''1'' based on Gross (1947) and Valiukevicius (1995). Dialipina is scored from Schultze (1968). Psarolepis is coded ''0'' based on Qu et al. (2013). The presence or absence of bone cells in the scale bases of Brindabellaspisis uncertain based on Burrow & Turner (1999). ';
 
 	TEXT   CHARACTER = 16 TEXT = 'Burrow & Turner (2010: character 60).';
 
@@ -680,7 +680,9 @@ BEGIN NOTES;
 
 	TEXT   CHARACTER = 83 TEXT = 'This character is coded as inapplicable in taxa lacking well-developed supraorbital shelves.';
 
-	TEXT   CHARACTER = 84 TEXT = 'Subcranial ridges were first described in Doliodus by Maisey et al. (2009). These ridges extend along the ventrolateral corner of the basicranium from the level of the hypophysis up to the hyomandibular articulation. These ridges have not previously been recognized in other early gnathostomes prior to our observations in Janusiscus. It is apparent from our revised comparative anatomy of early gnathostome braincases that subcranial ridges are present in the braincase referred to Ligulalepis, where they are manifest as downturned margins of the ventral surface of the sphenoid (Basden & Young, 2001), and Mimipiscis (Gardiner, 1984: fig. 50), where they greatly reduced in length.';
+	TEXT   CHARACTER = 84 TEXT = 'Subcranial ridges were first described in Doliodus by Maisey et al. (2009). These ridges extend along the ventrolateral corner of the basicranium from the level of the hypophysis up to the hyomandibular articulation. These ridges have not previously been recognized in other early gnathostomes prior to our observations in <i>Janusiscus</i>. It is apparent from our revised comparative anatomy of early gnathostome braincases that subcranial ridges are present in the braincase referred to <i>Ligulalepis</i>, where they are manifest as downturned margins of the ventral surface of the sphenoid (Basden & Young, 2001), and Mimipiscis (Gardiner, 1984: fig. 50), where they greatly reduced in length. These can also be homologised with the laterobasal angles described in <i>Brindabellasis</i> and <i>Kolymaspis</i>';
+	TEXT   TAXON = 50 CHARACTER = 84 TEXT = 'Score refers to the laterobasal angles of the braincase (see Young, 1980).	';
+	TEXT   TAXON = 51 CHARACTER = 84 TEXT = 'Score refers to the laterobasal angles of the braincase (see Young, 1980).';
 
 	TEXT   CHARACTER = 85 TEXT = 'This character captures the variable relationship between the course of the jugular vein and the horizontal semicircular canal. In placoderms, the jugular canal extends lateral to the horizontal canal in dorsal view, whereas most crown gnathostomes show a contrasting condition where the vein is overlapped by the canal. Galeaspids and osteostracans are lack a horizontal canal, and are coded as inapplicable for this character.';
 
@@ -695,9 +697,11 @@ BEGIN NOTES;
 
 	TEXT   CHARACTER = 90 TEXT = 'In petalichthyids such as Macropetalichthys, the occiput is flanked by large cucullaris fossae, resulting in a very elongage and narrow occipital region (Stensiö, 1969; Young, 1978). Although the endocranium of Lunaspis is not known in any external preparations, the stalked occiput is clearly visible in a radiograph prepared by W. Stürmer (SMF WS 10825) of an isolated skull from the Hunsrück Slate.';
 
+	TEXT   CHARACTER = 94 TEXT = 'King et al. assumed this character to be inapplicable outside of osteostracans. This is incorrect. The posteroventral myodome is clearly observable in many placoderms, as well as <i>Shuyu</i>';
+
 	TEXT   TAXON = 48 CHARACTER = 101 TEXT = 'Osteostracans and galeaspids scored as "forked".';
 
-	TEXT   CHARACTER = 109 TEXT = 'This character is excluded from the analysis because it cannot be considered indistinct from the presence/absence of a metotic fissure.';
+	TEXT   CHARACTER = 109 TEXT = 'This character is excluded from the analysis because its scirubg cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure.';
 
 	TEXT   CHARACTER = 110 TEXT = 'This character also cannot be considered independent of the presence of a dorsal ridge. However, it will be retained provisionally.';
 
@@ -857,7 +861,7 @@ Begin MESQUITE;
 		MESQUITESCRIPTVERSION 2;
 		TITLE AUTO;
 		tell ProjectCoordinator;
-		timeSaved 1667198803872;
+		timeSaved 1680691629242;
 		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
 		tell It;
 			setID 0 8464539481286941188;
@@ -887,7 +891,7 @@ Begin MESQUITE;
 			setFontIncAnnot 0;
 			setFontIncExp 0;
 			setSize 2560 1351;
-			setLocation 0 25;
+			setLocation -46 25;
 			setFont SanSerif;
 			setFontSize 10;
 			getToolPalette;
@@ -911,7 +915,7 @@ Begin MESQUITE;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
 					setSize 2460 1279;
-					setLocation 0 25;
+					setLocation -46 25;
 					setFont SanSerif;
 					setFontSize 10;
 					getToolPalette;
@@ -946,14 +950,13 @@ Begin MESQUITE;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
 					setSize 2460 1219;
-					setLocation 0 25;
+					setLocation -46 25;
 					setFont SanSerif;
 					setFontSize 12;
 					getToolPalette;
 					tell It;
 						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
 					endTell;
-					setActive;
 					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
 					colorCells  #mesquite.charMatrices.ColorCells.ColorCells;
 				tell It;
@@ -1018,7 +1021,7 @@ Begin MESQUITE;
 						setFontIncAnnot 0;
 						setFontIncExp 0;
 						setSize 2460 1279;
-						setLocation 0 25;
+						setLocation -46 25;
 						setFont SanSerif;
 						setFontSize 12;
 						getToolPalette;
@@ -1084,17 +1087,18 @@ Begin MESQUITE;
 						columnWidth 2 280;
 					endTell;
 					setExplanationSize 30;
-					setAnnotationSize 20;
+					setAnnotationSize 80;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
-					setSize 2460 1279;
-					setLocation 0 25;
+					setSize 2460 1219;
+					setLocation -46 25;
 					setFont SanSerif;
 					setFontSize 10;
 					getToolPalette;
 					tell It;
 						setTool mesquite.lists.CharacterList.CharacterListWindow.ibeam;
 					endTell;
+					setActive;
 				endTell;
 				showWindow;
 				getEmployee #mesquite.lists.CharListAnnotPanel.CharListAnnotPanel;
