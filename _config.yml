@@ -3,3 +3,4 @@ title: Gnathostome characters
 description: A public and reusable database of morphological characters
 github:
     is_project_page: true
+    the_list_url: https://github.com/mbrazeau/gnathostome_characters/blob/main/MATRIX_MASTER.html
