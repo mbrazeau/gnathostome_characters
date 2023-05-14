@@ -1,11 +1,11 @@
 # Change log
 
-## Taxa added
-*Ateleaspis tessellata*
+## Taxa added and references
+*Ateleaspis tessellata*. Source: Ritchie (1967)
 
-*Kolymaspis sibirica*
+*Kolymaspis sibirica*. Castiello (2018); Brazeau et al. (in review)
 
-*Minjinia turgenensis*
+*Minjinia turgenensis* Brazeau et al. (2020).
 
 ## Characters added or modified
 
