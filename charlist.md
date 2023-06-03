@@ -1,10 +1,6 @@
-<body>
-<object
-    type="text/html"
-    data="MATRIX_MASTER.html"
-></object>
-<object
-    type="text/html"
-    data="References_sources.html"
-></object>
-</body>
+<link
+    href="MATRIX_MASTER.html" rel="import"
+></link>
+<link
+    data="References_sources.html" rel="import"
+></link>
