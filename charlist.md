@@ -1,6 +1,9 @@
-<include
-    src="MATRIX_MASTER.html"
-></include>
-<include
-    src="References_sources.html"
-></include>
+<object
+    type="text/html"
+    data="MATRIX_MASTER.html"
+></object>
+<object
+    type="text/html"
+    data="References_sources.html"
+></object>
+
