@@ -6,4 +6,5 @@ Morphological datasets are becoming an unmaintainable mess and this represents a
 ### View the [character list](https://mbrazeau.github.io/gnathostome_characters/charlist.html)
 ### View the [References and sources](https://mbrazeau.github.io/gnathostome_characters/References_sources.html)
 ### View the [latest changes](https://mbrazeau.github.io/gnathostome_characters/changelog.html)
+### View the [Nexus file](https://mbrazeau.github.io/gnathostome_characters/MATRIX_MASTER.nex)
 
